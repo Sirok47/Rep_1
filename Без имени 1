@@ -1,0 +1,1 @@
+flyway -user=postgres "-password=glazirovanniisirok" -url=jdbc:postgresql://localhost:5432/TOP_GAMES -locations=filesystem:/home/maksim/Projectsss/TOP_GAMES/SQL/ migrate
